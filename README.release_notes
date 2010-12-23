@@ -2,7 +2,11 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
-Release_v_1_0
+rtag: v1-1
+
+* Add new cross-sections to the archive (acetone, PAN, CH3CN).  All new cross-section data derived from Hitran 2008.
+
+rtag: v1-0
 
 * Establish the cross-section archive.  These cross-sections have been used with LBLRTM v11.8 and earlier releases.  
 
