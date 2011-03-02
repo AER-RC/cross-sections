@@ -2,7 +2,7 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
-tag: v1-1
+rtag: v1-1
 
 * Add new cross-sections to the archive (acetone, PAN, CH3CN).  The acetone data was 
 derived by A. Waterfall (Thesis, 2003); PAN and CH3CN were obtained from HITRAN 2008.
