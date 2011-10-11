@@ -2,6 +2,12 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
+rtag: v1-2
+
+* Use HITRAN 2000 data for ClONO2. (LBLRTM is not currently equipped to use H04.)
+
+* Updated mistakes  in the FSCDXS file for ClONO2 and CClF3.
+
 rtag: v1-1
 
 * Add new cross-sections to the archive (acetone, PAN, CH3CN).  The acetone data was 
