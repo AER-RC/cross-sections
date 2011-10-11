@@ -1,3 +1,28 @@
-December 09, 2010
+C     author:    $Author$
+C     revision:  $Revision$
+C     created:   $Date$
 
-* Establish the cross-section archive.  
+rtag: v1-2
+
+* Use HITRAN 2000 data for ClONO2. (LBLRTM is not currently equipped to use H04.)
+
+* Updated mistakes  in the FSCDXS file for ClONO2 and CClF3.
+
+rtag: v1-1
+
+* Add new cross-sections to the archive (acetone, PAN, CH3CN).  The acetone data was 
+derived by A. Waterfall (Thesis, 2003); PAN and CH3CN were obtained from HITRAN 2008.
+
+rtag: v1-0
+
+* Establish the cross-section archive.  These cross-sections have been used with LBLRTM v11.8 and earlier releases.  
+
+* The cross section data for HNO3, N2O5, HNO4, and CCL4 is from Massie, S.T., Goldman, A., Murcray, D.G., and Gille, J.C., 1985, 
+"Aproximate Absorption Cross Sections of F12. F11, CLoNO2, N2O5, HNO3, CCl4, CF4, F21, F113, F114, and HNO4", 
+NCAR Technical Note NCAR/TN-258+STR, NCAR, Boulder, CO.   
+
+* The cross-section data for CClF3, C2ClF5, C2Cl3F3, C2Cl2F4, F11, F12, CHClF2, and CF4 is from Massie, S.T., Goldman, A., et al., 1991, 
+"Temperature Dependent Infrared Cross Sections for CFC-11, CFC-12, CFC-13, CFC-14, CFC-22, CFC-113, CFC-114, and CFC-115" 
+NCAR Technical Note NCAR/TN-358+STR, NCAR, Boulder, CO.   
+
+* The cross-section data for ClONO2, CHCl2F, and NO2 is from the 2004 release of HITRAN (www.cfa.harvard.edu/HITRAN).
