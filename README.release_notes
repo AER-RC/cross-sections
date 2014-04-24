@@ -2,6 +2,23 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
+rtag: v1-3
+
+Used HITRAN12 to add cross section data for:
+SO2A  
+HCF1 
+HCF2
+HCF3  
+HCF4  
+HCF5
+HCF6  
+HCF7  
+HFC1  
+HFC2  
+HFC3  
+HFC4  
+HFC5  
+
 rtag: v1-2
 
 * Use HITRAN 2000 data for ClONO2. (LBLRTM is not currently equipped to use H04.)
