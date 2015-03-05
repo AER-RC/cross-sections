@@ -2,22 +2,15 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
+rtag: v1-4
+
+Used HITRAN12 to build XS for HFC-32 and PNNL data for HFC-23. Note that HFC-23 only has spectroscopic data at 1 atm.
+
+
 rtag: v1-3
 
-Used HITRAN12 to add cross section data for:
-SO2A  
-HCF1 
-HCF2
-HCF3  
-HCF4  
-HCF5
-HCF6  
-HCF7  
-HFC1  
-HFC2  
-HFC3  
-HFC4  
-HFC5  
+Used HITRAN12 to add cross section data for: SO2_UV, HCFC0141b, HCF-142b, HFC-22, HFC-123, HFC-124, HFC-225ca, HFC-225b, HFC-125, HFC-134a,
+HFC-143a, HFC-152a, isoprene
 
 rtag: v1-2
 
