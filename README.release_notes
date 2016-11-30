@@ -2,6 +2,10 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
+rtag: v3-5
+
+Added HITRAN12 PAN cross section files (PANAT1, PANAT2, PANAT3, PANBT1, PANBT3).
+
 rtag: v1-4
 
 Used HITRAN12 to build XS for HFC-32 and PNNL data for HFC-23. Note that HFC-23 only has spectroscopic data at 1 atm.
