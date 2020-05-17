@@ -2,6 +2,10 @@ C     author:    $Author$
 C     revision:  $Revision$
 C     created:   $Date$
 
+rtag: v3-7
+
+Added BrO to cross section files (BROAT1, BROBT1). case-sensitive changes to CCl2FCH3 and CH3CClF2 (RFMIP corrections)
+
 rtag: v3-5
 
 Added HITRAN12 PAN cross section files (PANAT1, PANAT2, PANAT3, PANBT1, PANBT3).
